@@ -40,6 +40,7 @@ namespace GraphVisualization
         /// </summary>
         public object Key;
         public string Label;
+        public string JSONData;
         public NodeStyle Style;
         private RectTransform rectTransform;
         private Graph graph;

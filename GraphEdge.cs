@@ -37,6 +37,7 @@ namespace GraphVisualization
         public GraphNode StartNode;
         public GraphNode EndNode;
         public string Label;
+        public string Key;
         public EdgeStyle Style;
         private TMPro.TextMeshProUGUI text;
         private RectTransform rectTransform;
